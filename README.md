@@ -1,4 +1,4 @@
-# AdaNorm Optimizer for CNNs
+# AdaNorm Optimizer for CNNs (WACV 2023)
 
 This repository contains the code of AdaNorm optimizers (i.e., AdamNorm, diffGradNorm, RadamNorm, and AdaBeliefNorm).
 
