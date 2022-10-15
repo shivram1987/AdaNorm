@@ -2,6 +2,8 @@
 
 This repository contains the code of AdaNorm optimizers (i.e., AdamNorm, diffGradNorm, RadamNorm, and AdaBeliefNorm).
 
+The PDF is available at arXiv: https://arxiv.org/pdf/2210.06364.pdf
+
 
 ## Abstract
 
